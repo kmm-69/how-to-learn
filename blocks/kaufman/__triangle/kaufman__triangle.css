@@ -1,14 +1,14 @@
 .kaufman__triangle {
-    background-image: url(../../../images/triangle.svg);
-    position: absolute;
-    background-size: contain;
-    right: -210px;
-    top: 0;
-    z-index: 0;
-    width: 877px;
-    height: 877px;
-    animation-name: rotation;
-    animation-duration: 20s;
-    animation-iteration-count: infinite;
-    animation-timing-function: linear;
-  }
+  background-image: url(../../../images/triangle.svg);
+  position: absolute;
+  background-size: contain;
+  right: -210px;
+  top: 0;
+  z-index: 0;
+  width: 877px;
+  height: 877px;
+  animation-name: rotation;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
